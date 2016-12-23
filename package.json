@@ -35,7 +35,9 @@
     "eslint": "^2.13.1",
     "react-hot-loader": "^3.0.0-beta.2",
     "webpack": "^1.13.1",
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "^1.14.1",
+    "css-loader": "^0.15.1",
+    "style-loader": "^0.12.3"
   },
   "dependencies": {
     "mobx": "^2.2.2",
